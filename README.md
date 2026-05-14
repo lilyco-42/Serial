@@ -1,3 +1,7 @@
+# 注意：这个项目我在Windows编译无法跑通
+该项目已放弃
+# Notice : I had some error  "zig build"  in This program. 
+
 # capy-template
 Simple template for a Capy app
 
